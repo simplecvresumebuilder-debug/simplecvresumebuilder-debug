@@ -1,4 +1,4 @@
-## 🙏📿 Simple CV Resume Builder
+##  Simple CV Resume Builder
 👇👇👇
 
 <a href="https://play.google.com/store/apps/details?id=com.simplecvresumebuilder">
